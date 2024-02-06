@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrigen007
-- 👀 I’m interested in Nodejs developer role
+- 👀 I’m interested in the backend developer role.
 - 📫 How to reach me at mrigen2022@gmail.com
 
 <!---
